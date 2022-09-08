@@ -2,10 +2,10 @@
 
 /**
  * main - Entry point
- * Description: A C program printing using puts function
+ * Description: A c-program that prints using "puts" function
  **/
 
-int main()
+int main(void)
 {
   puts("\"Programming is like building a multilingual puzzle");
   return (0);
