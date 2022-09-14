@@ -1,1 +1,1 @@
-## 0x00-C HELLO WORLD
+## 0x02-C functions and loops(nested)
