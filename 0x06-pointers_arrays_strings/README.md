@@ -1,1 +1,1 @@
-## 0x02-C functions and loops(nested)
+## 0x06-c pointers, arrays and strings
