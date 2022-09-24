@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  *_strncpy - copy src into dest.
  *@dest: first string.
